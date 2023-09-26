@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>alexis Web Page</title>
+</head>
+<body>
+
+<h1>Alexis Ezekiel C. Bonifacio</h1>
+<p>This is my first HTML Web Page.</p>
+
+</body>
+</html>

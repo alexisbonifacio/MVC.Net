@@ -1,0 +1,7 @@
+notes sa .net
+
+<br>=
+(empty element)
+(no closing tag)
+(Content)
+
